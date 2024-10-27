@@ -143,3 +143,9 @@ node_modules/
 # Visual Studio cache files
 *.[Cc]ache
 conversation_history/
+memories/conversation_memory.json
+# Ignore audio output files
+*.mp3
+
+# Ignore project files for IDEs
+*.pyproj
