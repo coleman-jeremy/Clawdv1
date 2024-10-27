@@ -142,3 +142,4 @@ node_modules/
 
 # Visual Studio cache files
 *.[Cc]ache
+conversation_history/
